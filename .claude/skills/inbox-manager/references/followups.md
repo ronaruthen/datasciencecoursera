@@ -6,6 +6,8 @@ is made and clears them when done. Surface anything stale in the morning run.
 | Opened | Who | What | Owner | Status | Resurface if quiet by |
 |---|---|---|---|---|---|
 | 2026-09-24 | Charlie Martin | Intros to Neil (Gradient Labs) + Arthur (Shawbrook); both in motion Rona's side | Rona | in progress | 2026-09-29 |
+| 2026-09-27 | Nationwide (letting) | Ref 72400280191: forward freeholder/agent written consent to let. Rona asked MyLako 27 Sep; forward to Nationwide once received | Rona | waiting on MyLako | 2026-10-01 |
+| 2026-08-31 | Nationwide (banking) | "Check we have your latest address" — 21-day account-block warning; window likely lapsed. Verify address is confirmed / account not blocked | Rona | needs check | 2026-09-29 |
 
 ## Recently closed (for reference)
 - Chen Huli (Payoneer) S2 recording: arrived 24 Sep (no further action needed).

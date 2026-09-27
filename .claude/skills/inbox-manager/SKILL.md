@@ -50,6 +50,14 @@ and `has_draft`. Prioritise:
 - 🔴 **Time-sensitive** (meeting today/this week, someone waiting, chase on your commitment)
 - 🟠 **Owed / warm** (a reply or intro you promised; a warm lead)
 - 🟢 **Quick** (one-liner answers, graceful declines)
+- 🏦 **Personal admin with consequences** — bank, tax authority, regulator, government, property/letting,
+  insurance, immigration/visa. Anything that implies an action or deadline: account block or freeze,
+  identity/address verification, a payment due, a consent or document to provide, a limit or restriction.
+  **These are urgent even when they look automated** (from `no-reply@`, `notifications.*`, `letting@`, etc.)
+  and even when they land in the gmail `Other` split rather than `Important`. Do NOT dismiss a
+  financial-institution or official-body email as noise just because the sender is automated. Most of
+  Rona's are in the **gmail** account. Names seen: Nationwide, Revolut, HMRC, Payoneer, cpa-lm (Israeli
+  accountant), Israeli tax/Bituach Leumi. When in doubt on this class, flag it, don't drop it.
 
 ## MORNING mode (Rona in the loop)
 1. **Scan** both business-relevant accounts (ronaru + gmail; ila-hub only if she asks) for the window
@@ -66,6 +74,9 @@ and `has_draft`. Prioritise:
 ## MONITOR mode (unattended, every ~2h, read-only)
 - Scan ronaru + gmail for anything **urgent** since the last check: a real person awaiting a reply on something
   time-sensitive, a meeting/logistics item for today, a chase, a VIP/known contact, anything money/legal/contract.
+  Also treat as urgent the **personal-admin-with-consequences** class above (bank/tax/regulator/property/insurance
+  with an action or deadline: account block, verification, payment, consent, limit) even from automated senders
+  and even in the gmail `Other` split. In gmail, do not rely on the `Important` split alone for this class.
 - **Never send, draft-and-send, archive, or act.** Read + judge only.
 - If (and only if) something genuinely urgent is found, **send a push notification to Rona's phone** (the
   Claude mobile app): sender, subject, one-line why it's urgent, account. Batch multiple items into one push.
