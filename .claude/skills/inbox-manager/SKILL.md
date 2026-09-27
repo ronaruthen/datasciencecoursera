@@ -4,8 +4,8 @@ description: >-
   Rona's inbox manager across her three linked Superhuman accounts. Use when Rona says
   "/inbox", "run my inbox", "triage my inbox", "what needs me in email", "morning inbox",
   or when the morning Routine fires. Two modes: MORNING (review + draft + send, in the loop,
-  batches of 5) and MONITOR (read-only scan every ~2h, Telegram alert on anything urgent —
-  never sends or acts). Pulls direct-to-Rona mail, triages by her rules, drafts in her voice,
+  batches of 5) and MONITOR (read-only scan every ~2h, push notification to Rona's phone on
+  anything urgent, never sends or acts). Pulls direct-to-Rona mail, triages by her rules, drafts in her voice,
   and only sends on her explicit approval.
 ---
 
@@ -67,8 +67,8 @@ and `has_draft`. Prioritise:
 - Scan ronaru + gmail for anything **urgent** since the last check: a real person awaiting a reply on something
   time-sensitive, a meeting/logistics item for today, a chase, a VIP/known contact, anything money/legal/contract.
 - **Never send, draft-and-send, archive, or act.** Read + judge only.
-- If (and only if) something genuinely urgent is found, **post a short Telegram alert** via the connected
-  Telegram bot (the one Mulan uses): sender, subject, one-line why it's urgent, account. Batch multiple into one message.
+- If (and only if) something genuinely urgent is found, **send a push notification to Rona's phone** (the
+  Claude mobile app): sender, subject, one-line why it's urgent, account. Batch multiple items into one push.
 - If nothing urgent: do nothing (no "all clear" spam). Keep quiet holds silent.
 - Working-hours only (default 08:00–20:00 UK); no night pings.
 
